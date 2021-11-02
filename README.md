@@ -1,2 +1,1 @@
-# egg-catcher-game-3
-egg catcher game
+# FRUIT-CATCHER-2-TO-BE-CHECKED
